@@ -19,3 +19,7 @@ helloworld.py in master:
 ### 4 Unit tests
 
 ![Alt text](image-3.png)
+
+### Rebase
+
+![Alt text](image-4.png)
